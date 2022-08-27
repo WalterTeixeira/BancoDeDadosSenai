@@ -1,17 +1,19 @@
-ENTIDADES DOMINIO
+<h1 style="color: darkblue">ENTIDADES DOMINIO</h1>
 
-Classes das entidades principais disponibilizadas aqui no Github.
+<h2>Trata-se de uma primeira entrega de uma atividade do curso Superior de ADS do SENAI, Classes das entidades principais disponibilizadas aqui no Github.</h2>
 
-🚀 Começando
+🚀 <strong>Começando</strong>
 Essas instruções permitirão que você obtenha uma cópia do projeto que iniciou com um BD sobre as eleições, no caso essa parte são as Classes principais feito em JAVA.
 
-🛠️ Construído com
-JAVA 
+🛠️ <strong>Construído com:</strong>
+<ul>
+  <li>JAVA</li>
+</ul>
 
+✒️ <strong>Autores</strong>
+Confira os autores do trabalho
 
-✒️ Autores
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-Walter Teixeira - Desenvolvimento - <a href="https://github.com/brunaplatt">Clique para ver o perfil</a>
-Bruna Platt - Desenvolvimento - <a href="https://github.com/walterteixeira">Clique para ver o perfil</a>
-
+<ul>
+<li>Walter Teixeira - Desenvolvimento - <a href="https://github.com/brunaplatt"><strong>Clique para ver o perfil</strong></a></li>
+<li>Bruna Platt - Desenvolvimento - <a href="https://github.com/walterteixeira"><strong>Clique para ver o perfil</strong></a></li>
+</ul>
