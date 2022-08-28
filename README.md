@@ -14,6 +14,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto que inici
 Confira os autores do trabalho
 
 <ul>
-<li>Walter Teixeira - Desenvolvimento - <a href="https://github.com/brunaplatt"><strong>Clique para ver o perfil</strong></a></li>
-<li>Bruna Platt - Desenvolvimento - <a href="https://github.com/walterteixeira"><strong>Clique para ver o perfil</strong></a></li>
+<li>Walter Teixeira - Desenvolvimento - <a href="https://github.com/walterteixeira"><strong>Clique para ver o perfil</strong></a></li>
+<li>Bruna Platt - Desenvolvimento - <a href="https://github.com/brunaplatt"><strong>Clique para ver o perfil</strong></a></li>
+<li>Leandro Nivaldo Regis - Desenvolvimento - <a href="https://github.com/leandronivaldoregis"><strong>Clique para ver o perfil</strong></a></li>
 </ul>
