@@ -20,6 +20,9 @@ public class Pesquisa{
         this.tipopesquisa = tipopesquisa;
     }
 
+    public Pesquisa() {
+    }
+    
     public int getIdPesquisa() {
         return idPesquisa;
     }
