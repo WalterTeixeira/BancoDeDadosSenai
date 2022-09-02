@@ -13,6 +13,9 @@ public class Candidatos {
         this.partido = partido;
     }
 
+    public Candidatos() {
+    }
+    
     public int getIdcandidatos() {
         return idcandidatos;
     }
