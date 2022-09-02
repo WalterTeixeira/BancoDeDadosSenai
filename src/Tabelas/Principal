@@ -1,0 +1,38 @@
+package model;
+
+public class Principal {
+	
+	public static void main(String[] args) {
+		
+		Candidatos c1 = new Candidatos();
+		c1.setNome("Lula");
+		
+		Candidatos c2 = new Candidatos();
+		c2.setNome("Bolsonaro");
+	
+		Pesquisa p1 = new Pesquisa();
+		p1.setInstitutopesquisa("Data Folha");
+		
+		Candidato_Pesquisa candPesq = new Candidato_Pesquisa();
+		candPesq.setCandidato(c1);
+		candPesq.setPesquisa(p1);
+		candPesq.setVotos(1012);
+		
+		Candidato_Pesquisa candPesq1 = new Candidato_Pesquisa();
+		candPesq1.setCandidato(c2);
+		candPesq1.setPesquisa(p1);
+		candPesq1.setVotos(704);
+		
+		Candidato_Pesquisa[] lista = new Candidato_Pesquisa[2];
+		lista[0] = candPesq;
+		lista[1] = candPesq1;
+		
+		for(Candidato_Pesquisa candPes :lista) {
+			System.out.println(candPes.getVotos());
+			System.out.println(candPes.getCandidato().getNome());
+			System.out.println(candPes.getPesquisa().getInstitutopesquisa());
+		}
+			
+	}	
+
+}
