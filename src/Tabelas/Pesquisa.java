@@ -78,4 +78,7 @@ public class Pesquisa{
     public void setTipopesquisa(String tipopesquisa) {
         this.tipopesquisa = tipopesquisa;
     }
+     public String toString(){
+		return datapesquisa + " - " + institutopesquisa;
+	}
 }
