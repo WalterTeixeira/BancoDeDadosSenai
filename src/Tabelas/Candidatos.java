@@ -47,4 +47,7 @@ public class Candidatos {
     public void setPartido(String partido) {
         this.partido = partido;
     }
+      public String toString(){
+		return nome + " - " + partido;
+	}
 }
